@@ -1,11 +1,14 @@
 <template>
-    <div class="r-demo">demo</div>
+    <div >
+      
+            demo
+    </div>
 </template>
 
 <script>
-    
-    export default {
-        name:"Demo"
-    }
 
+    export default {
+        name:"r-demo"
+
+    }
 </script>

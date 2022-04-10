@@ -1,0 +1,1 @@
+const e={key:"v-27c6307c",path:"/guide/r-card.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5361\u7247\u7D44\u4EF6",slug:"\u5361\u7247\u7D44\u4EF6",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"guide/r-card.md"};export{e as data};
